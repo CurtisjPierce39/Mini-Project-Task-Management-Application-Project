@@ -1,0 +1,46 @@
+body {
+    background: radial-gradient(rgba(106, 29, 29, 0.1),rgba(1, 220, 220, 0.8));
+}
+
+.btn-primary:hover {
+    background-color: aliceblue;
+    color: darkblue;
+    transition: 2s;
+}
+
+.card {
+    background-color:cadetblue;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    text-shadow: 1px 1px 3px white;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.btn-primary {
+    display: block;
+    margin: auto;
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+} 
+th, td { 
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+} 
+th { 
+    background-color: #f2f2f2; 
+} 
+
+input:hover {
+    background-color: antiquewhite;
+    color: black;
+    transition: 2s;
+}
